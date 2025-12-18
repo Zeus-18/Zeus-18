@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm Kushagra Bande, and I'm currently pursuing my Bachelor of Technology in Computer Science with a specialization in Artificial Intelligence and Machine Learning. I believe in applying classical strategies to modern-day projects, and I'm an intermediate-level programmer in Python,and Java. Recently, I've been trying my hand at NodeJS and am excited to expand my knowledge in this area.
+I'm Kushagra Bande, and I'm currently pursuing my Integrated Masters of Technology in Computer Science with a specialization in Artificial Intelligence and Machine Learning. I believe in applying classical strategies to modern-day projects, and I'm an intermediate-level programmer in Python,and Java. Recently, I've been trying my hand at NodeJS and am excited to expand my knowledge in this area.
 
 I've completed some basic and advanced Python projects using popular libraries like Tkinter, Pandas, and NumPy, and I'm always looking for new challenges to enhance my programming skills.
 
